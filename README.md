@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Esapiens][esapienswebsite]
-- 🌱 I’m currently learning Angular
 
 ### Languages and Tools:
 
