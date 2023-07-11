@@ -6,4 +6,4 @@
 ## Contato
 - [LinkedIn] mathrocha
 
-[LinkedIn]: https://www.esapiens.com.br
+[LinkedIn]: https://www.linkedin.com/in/mathrocha/
